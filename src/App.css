@@ -681,6 +681,10 @@ a:focus-visible {
   font-size: 13px;
 }
 
+main section + section {
+  margin-top: 40px;
+}
+
 .footer {
   padding: 31px 0 19px;
   background: #20372d;
