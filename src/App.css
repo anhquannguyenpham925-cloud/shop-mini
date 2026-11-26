@@ -1,5 +1,5 @@
 :root {
-  font-family: 'DM Sans', 'Segoe UI', sans-serif;
+  font-family: 'Segoe UI', Arial, sans-serif;
   color: #23332d;
   background: #fbfaf6;
   font-synthesis: none;
@@ -169,7 +169,7 @@ main {
 .hero h1 {
   margin: 22px 0 14px;
   color: var(--dark);
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: 'Segoe UI', Arial, sans-serif;
   font-size: clamp(44px, 5vw, 66px);
   font-weight: 500;
   letter-spacing: -2.6px;
@@ -178,7 +178,7 @@ main {
 
 .hero h1 span {
   color: var(--green);
-  font-style: italic;
+  font-style: normal;
 }
 
 .hero-description {
@@ -345,7 +345,7 @@ main {
 }
 
 .hero-sticker strong {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: 'Segoe UI', Arial, sans-serif;
   font-size: 19px;
   font-style: italic;
 }
@@ -440,7 +440,7 @@ main {
 .category-heading h2 {
   margin: 0;
   color: var(--dark);
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: 'Segoe UI', Arial, sans-serif;
   font-size: 21px;
   font-weight: 500;
 }
@@ -516,7 +516,7 @@ a:focus-visible {
 .section-heading h2 {
   margin: 0;
   color: var(--dark);
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: 'Segoe UI', Arial, sans-serif;
   font-size: 29px;
   font-weight: 500;
   letter-spacing: -0.5px;
